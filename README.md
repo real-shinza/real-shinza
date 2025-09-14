@@ -1,11 +1,17 @@
 # About
 ![](https://komarev.com/ghpvc/?username=real-shinza)  
-I'm Shinza Yoshiya. I’m an engineer.  
-新佐佳也です。エンジニアです。  
-我叫新佐佳也，是工程師。  
+I'm Shinza Yoshiya. I’m a university student and also an engineer.  
+新佐佳也です。大学生であり、エンジニアでもあります。  
+我叫新佐佳也，是一名大学生，也是一名工程师。  
+我叫新佐佳也，是一名大學生，也是一名工程師。  
+신자요시야예요. 대학생이면서 엔지니어이기도 합니다.  
 
 ## Portfolio Site
-[日本語](https://shinza-s-portfolio.vercel.app/ja) - [English](https://shinza-s-portfolio.vercel.app/en) - [简体中文](https://shinza-s-portfolio.vercel.app/zh-CN) - [繁體中文](https://shinza-s-portfolio.vercel.app/zh-TW) - [한국어](https://shinza-s-portfolio.vercel.app/ko)  
+- [日本語](https://shinza-s-portfolio.vercel.app/ja)
+- [English](https://shinza-s-portfolio.vercel.app/en)
+- [简体中文](https://shinza-s-portfolio.vercel.app/zh-CN)
+- [繁體中文](https://shinza-s-portfolio.vercel.app/zh-TW)
+- [한국어](https://shinza-s-portfolio.vercel.app/ko)  
 
 ## Social Media
 [![X](https://img.shields.io/badge/-@real_kainari-000000?style=plastic&logo=x)](https://x.com/real_kainari)

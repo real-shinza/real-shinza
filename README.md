@@ -1,10 +1,7 @@
 # About
 ![](https://komarev.com/ghpvc/?username=real-shinza)  
-I'm Shinza Yoshiya. I’m a university student and also an engineer.  
-新佐佳也です。大学生であり、エンジニアでもあります。  
-我叫新佐佳也，是一名大学生，也是一名工程师。  
-我叫新佐佳也，是一名大學生，也是一名工程師。  
-신자요시야예요. 대학생이면서 엔지니어이기도 합니다.  
+I'm Shinza Yoshiya.  
+新佐佳也です。  
 
 ## Portfolio Site
 - [日本語](https://shinza-s-portfolio.vercel.app/ja)

@@ -1,7 +1,13 @@
 # About
 ![](https://komarev.com/ghpvc/?username=real-shinza)  
-I'm Shinza Yoshiya.  
-新佐佳也です。  
+I'm Shinza Yoshiya. Please contact me via direct message on X or Facebook.  
+新佐佳也です。ご連絡は X または Facebook のダイレクトメッセージにてお願いします。  
+我是新佐佳也。聯絡請透過 X 或 Facebook 的私訊。  
+
+## Social Media
+[![X](https://img.shields.io/badge/-@real_kainari-000000?style=plastic&logo=x)](https://x.com/real_kainari)
+[![Facebook](https://img.shields.io/badge/-新佐佳也-4172B8?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100011508277452)
+[![Zenn](https://img.shields.io/badge/-kainari-FFFFFF?style=plastic&logo=zenn)](https://zenn.dev/kainari)
 
 ## Portfolio Site
 - [日本語](https://shinza-s-portfolio.vercel.app/ja)
@@ -9,11 +15,6 @@ I'm Shinza Yoshiya.
 - [简体中文](https://shinza-s-portfolio.vercel.app/zh-CN)
 - [繁體中文](https://shinza-s-portfolio.vercel.app/zh-TW)
 - [한국어](https://shinza-s-portfolio.vercel.app/ko)  
-
-## Social Media
-[![X](https://img.shields.io/badge/-@real_kainari-000000?style=plastic&logo=x)](https://x.com/real_kainari)
-[![Facebook](https://img.shields.io/badge/-新佐佳也-4172B8?style=plastic&logo=facebook)](https://www.facebook.com/profile.php?id=100011508277452)
-[![Zenn](https://img.shields.io/badge/-kainari-FFFFFF?style=plastic&logo=zenn)](https://zenn.dev/kainari)
 
 # Summary
 ![](https://github-readme-stats.vercel.app/api?username=real-shinza&rank_icon=github&layout=compact&include_all_commits=true&show_icons=true&theme=dracula)
@@ -26,7 +27,7 @@ I'm Shinza Yoshiya.
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=real-shinza&theme=dracula&utcOffset=+9)
 
 # Skill
-![](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py,html,css,php)  
-![](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,discordjs,flutter,unity,wordpress,mysql)  
-![](https://skillicons.dev/icons?i=git,github,githubactions,docker,vercel,aws,gcp,firebase)  
-![](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,eclipse,notion,discord)  
+![](https://skillicons.dev/icons?i=c,cpp,cs,js,ts,java,py,dart,html,css,php)  
+![](https://skillicons.dev/icons?i=nodejs,react,nextjs,express,fastapi,discordjs,flutter,unity,wordpress,mysql,jest)  
+![](https://skillicons.dev/icons?i=git,github,githubactions,md,npm,linux,docker,vercel,aws,gcp,firebase)  
+![](https://skillicons.dev/icons?i=visualstudio,vscode,pycharm,eclipse,notion,figma,discord)  

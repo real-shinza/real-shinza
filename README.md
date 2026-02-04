@@ -1,5 +1,4 @@
 # About
-![](https://komarev.com/ghpvc/?username=real-shinza)  
 I'm Shinza Yoshiya. Please contact me via direct message on X or Facebook.  
 新佐佳也です。ご連絡は X または Facebook のダイレクトメッセージにてお願いします。  
 我是新佐佳也。聯絡請透過 X 或 Facebook 的私訊。  
@@ -10,11 +9,11 @@ I'm Shinza Yoshiya. Please contact me via direct message on X or Facebook.
 [![Zenn](https://img.shields.io/badge/-kainari-FFFFFF?style=plastic&logo=zenn)](https://zenn.dev/kainari)
 
 ## Portfolio Site
-- [日本語](https://shinza-s-portfolio.vercel.app/ja)
-- [English](https://shinza-s-portfolio.vercel.app/en)
-- [简体中文](https://shinza-s-portfolio.vercel.app/zh-CN)
-- [繁體中文](https://shinza-s-portfolio.vercel.app/zh-TW)
-- [한국어](https://shinza-s-portfolio.vercel.app/ko)  
+- [日本語](https://shinza-s-portfolio-v2.vercel.app/ja)
+- [English](https://shinza-s-portfolio-v2.vercel.app/en)
+- [简体中文](https://shinza-s-portfolio-v2.vercel.app/zh-CN)
+- [繁體中文](https://shinza-s-portfolio-v2.vercel.app/zh-TW)
+- [한국어](https://shinza-s-portfolio-v2.vercel.app/ko)
 
 # Summary
 ![](https://github-readme-stats.vercel.app/api?username=real-shinza&rank_icon=github&layout=compact&include_all_commits=true&show_icons=true&theme=dracula)

@@ -9,11 +9,11 @@ I'm Shinza Yoshiya. Please contact me via direct message on X or Facebook.
 [![Zenn](https://img.shields.io/badge/-kainari-FFFFFF?style=plastic&logo=zenn)](https://zenn.dev/kainari)
 
 ### Portfolio Site
-- [日本語](https://shinza-s-portfolio-v2.vercel.app/ja)
-- [English](https://shinza-s-portfolio-v2.vercel.app/en)
-- [简体中文](https://shinza-s-portfolio-v2.vercel.app/zh-CN)
-- [繁體中文](https://shinza-s-portfolio-v2.vercel.app/zh-TW)
-- [한국어](https://shinza-s-portfolio-v2.vercel.app/ko)
+- [日本語](https://portfolio.real-shinza.com/ja)
+- [English](https://portfolio.real-shinza.com/en)
+- [简体中文](https://portfolio.real-shinza.com/zh-CN)
+- [繁體中文](https://portfolio.real-shinza.com/zh-TW)
+- [한국어](https://portfolio.real-shinza.com/ko)
 
 # Summary
 ![](https://github-readme-stats.vercel.app/api?username=real-shinza&rank_icon=github&layout=compact&include_all_commits=true&show_icons=true&theme=dracula)
